@@ -1,6 +1,9 @@
 # cVim Changelog
 # [Like cVim? Consider donating! https://www.paypal.me/1995eaton](https://www.paypal.me/1995eaton)
 
+## 1.2.99.1 (2020-02-22)
+ * Fixed issue with `createHint`, `createShadowRoot is not a function`.
+ 
 ## 1.2.99 (2017-12-17)
  * Updated list of `chrome://` completion URLs when `:chrome` is used
  * Fixed issue with `openPasteTab` [#573](https://github.com/1995eaton/chromium-vim/issues/573)
